@@ -15,7 +15,9 @@
   
   最后，我们对建立的策略模型的优缺点进行了分析与评价，并讨论了后续改进的方向。
 
+
 ##奖状
 
 ![2020数模国赛二等奖.jpg](https://i.loli.net/2021/05/21/GyhUioAIzVpkenN.jpg)
+
 ![2020数模省赛一等奖.jpg](https://i.loli.net/2021/05/21/gh5GMsEwOHNo9JC.jpg)
