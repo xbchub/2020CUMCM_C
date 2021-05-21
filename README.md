@@ -1,3 +1,5 @@
+![我的个人主页](https://xbchub.github.io/)
+
 # 2020CUMCM_C
 2020年全国大学生数学建模竞赛 C题代码
 
