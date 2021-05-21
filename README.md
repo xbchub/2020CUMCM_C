@@ -1,10 +1,10 @@
-![我的个人主页](https://xbchub.github.io/)
+[我的个人主页](https://xbchub.github.io/)
 
 # 2020CUMCM_C
 2020年全国大学生数学建模竞赛 C题代码
 
 代码来自Intzm
-![原地址](https://github.com/lntzm/2020CUMCM_C)
+[原地址](https://github.com/lntzm/2020CUMCM_C)
 
 ## 摘要
   某银行迫切需要在众多申请贷款的企业客户中，识别出信誉高、信贷风险低的客户，制定不同情景下的信贷策略。文章基于此背景提出了在客户信誉等级已知、客户信誉等级未知以及突发因素下且客户信誉等级未知这三个情景下的信贷策略问题。
